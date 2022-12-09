@@ -9,7 +9,4 @@ Skills: HTML / CSS / JS / REACT / NODE / EXPRESS / MONGODB / FIGMA
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Flutter / Figma / TypeScript 
 
-
-
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsfarhankhan28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/famannat@gmail.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fk_zulkar_1/)  
