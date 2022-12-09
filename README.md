@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Farhan Khan
+#### Aiming to be a Full Stack Web Developer🤗🤗
+![Aiming to be a Full Stack Web Developer](https://media-exp1.licdn.com/dms/image/C4D22AQHhEzVYrZfwjA/feedshare-shrink_800/0/1670560448832?e=1673481600&v=beta&t=7JzRYCExiyISsgFGvI0oZ6zIcCgRik9XV3AtifVmka8)
 
-<!--
-**itsfarhankhan28/itsfarhankhan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Farhan Khan. Currently pursuing B.Tech from Xavier's institute of engineering
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / REACT / NODE / EXPRESS / MONGODB / FIGMA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Flutter / Figma / TypeScript 
+
+
+
+
+
