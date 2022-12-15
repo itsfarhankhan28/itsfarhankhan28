@@ -15,6 +15,10 @@ Skills: HTML / CSS / JS / REACT / NODE / EXPRESS / MONGODB / FIGMA
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsfarhankhan28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/famannat@gmail.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fk_zulkar_1/)  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsfarhankhan28&label=Profile%20views&color=0e75b6&style=flat" alt="itsfarhankhan28" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsfarhankhan28" alt="itsfarhankhan28" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfarhankhan28&show_icons=true&locale=en&layout=compact" alt="itsfarhankhan28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&show_icons=true&locale=en" alt="itsfarhankhan28" /></p>
