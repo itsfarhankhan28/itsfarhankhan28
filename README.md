@@ -15,12 +15,8 @@ Skills: HTML / CSS / JS / REACT / NODE / EXPRESS / MONGODB / FIGMA
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsfarhankhan28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/famannat@gmail.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fk_zulkar_1/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsfarhankhan28)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfarhankhan28&show_icons=true&locale=en&layout=compact" alt="itsfarhankhan28" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsfarhankhan28)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&show_icons=true&locale=en" alt="itsfarhankhan28" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=itsfarhankhan28)  
-
-![Profile views](https://gpvc.arturio.dev/itsfarhankhan28)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsfarhankhan28&" alt="itsfarhankhan28" /></p>
