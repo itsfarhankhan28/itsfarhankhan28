@@ -26,3 +26,5 @@
 ---
 
 ### :man_technologist: About Me :
+
+#### Hello there :wave: My name is Farhan Khan . Aiming to be a Full stack web developer :man_technologist: . I am currently pursuing my degree in Information Technology and have a passion for all things web development. I have experience working with <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; JavaScript, and several web development frameworks such as React and Angular.
