@@ -46,6 +46,4 @@
 
 ---
 
-<div>
-  [GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsfarhankhan28&theme=buefy)(https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsfarhankhan28&theme=buefy)](https://git.io/streak-stats)
