@@ -22,3 +22,7 @@
   <img src="https://github.com/itsfarhankhan28/itsfarhankhan28/blob/assets/readmeimg.png?raw=true"/>
 </div>
 </div>
+
+---
+
+### :man_technologist: About Me :
