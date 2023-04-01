@@ -43,3 +43,9 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,java,python,react,nodejs,express,mongodb,markdown,typescript,vercel,bootstrap,flutter,dart,mui,tailwindcss,postman,figma,webflow" />
   </a>
 </p>
+
+---
+
+<div>
+  [GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsfarhankhan28&theme=buefy)(https://git.io/streak-stats)
+</div>
