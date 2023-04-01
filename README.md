@@ -29,4 +29,4 @@
 
 #### Hello there :wave: My name is Farhan Khan . Aiming to be a Full stack web developer :man_technologist: . I am currently pursuing my degree in Information Technology and have a passion for all things web development. I have experience working with HTML, CSS, JavaScript, and several web development frameworks such as React and Angular.
 
-#### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+#### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
