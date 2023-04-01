@@ -46,4 +46,6 @@
 
 ---
 
+<h2>My Stats :fire:</h2>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsfarhankhan28&theme=nightowl)](https://git.io/streak-stats)
