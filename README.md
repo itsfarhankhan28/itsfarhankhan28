@@ -46,6 +46,8 @@
 
 ---
 
-<h2>My Stats :fire:</h2>
+<h2  align="center">My Github Stats :fire:</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsfarhankhan28&theme=nightowl)](https://git.io/streak-stats)
+<img align="left" width=47% src="http://github-readme-streak-stats.herokuapp.com?user=itsfarhankhan28&theme=nightowl)(https://git.io/streak-stats"/>
+
+<img width=47% src="https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&theme=nightowl&show_icons=true" />
