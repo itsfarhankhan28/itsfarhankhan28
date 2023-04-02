@@ -52,4 +52,4 @@
 
 <img width=47% src="https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&theme=nightowl&show_icons=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&theme=nightowl&show_icons=true"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsfarhankhan28&layout=compact&theme=nightowl"></img>
