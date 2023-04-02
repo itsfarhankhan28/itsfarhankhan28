@@ -48,6 +48,8 @@
 
 <h2  align="center">My Github Stats :fire:</h2>
 
-<img align="left" width=47% src="https://streak-stats.demolab.com/?username=itsfarhankhan28&theme=synthwave)(https://git.io/streak-stats"/>
+<img align="left" width=47% src="https://streak-stats.demolab.com/?user=itsfarhankhan28&theme=nightowl"/>
 
 <img width=47% src="https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&theme=nightowl&show_icons=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&theme=nightowl&show_icons=true"></img>
