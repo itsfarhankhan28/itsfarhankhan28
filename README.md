@@ -31,7 +31,7 @@
 
 #### :zap:  I am constantly looking to learn new technologies and improve my existing skillset.
 
-#### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+#### :mailbox:How to reach me: [famannat@gmail.com](famannat@gmail.com)
 
 ---
 
