@@ -31,7 +31,13 @@
 
 #### :zap:  I am constantly looking to learn new technologies and improve my existing skillset.
 
-#### :mailbox:How to reach me: [famannat@gmail.com](famannat@gmail.com)
+#### 🌠 Currently learning: Next.js
+
+#### 🖥 Check my portfolio at: [My portfolio](https://portfolio2-m2jd.vercel.app/)
+
+#### 💻 Check my blog website at: [My Blog Website](https://my-blog-app-six.vercel.app/)
+
+#### :mailbox: How to reach me: [famannat@gmail.com](famannat@gmail.com)
 
 ---
 
