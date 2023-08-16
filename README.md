@@ -24,27 +24,24 @@
 </div>
 
 ---
+<div align="left">
+<img src="./IMG/githubimg.png" alt="Profile Image" align="left" width="23%" height="45%">
+</div>
 
-<div style="display:flex;justify-items:center;align-items:end;flex-direction:row">
-
-<div style="width:50%">
+<div align="right">
 
 ### :man_technologist: About Me :
 
-#### Hello there :wave: My name is Farhan Khan . Aiming to be a Full stack web developer :man_technologist: . I am currently pursuing my degree in Information Technology and have a passion for all things web development. I have experience working with HTML, CSS, JavaScript, and several web development frameworks such as React and Angular.
+:zap: I am constantly looking to learn new technologies and improve my existing skillset.
 
-#### :zap:  I am constantly looking to learn new technologies and improve my existing skillset.
+🌠 Currently learning: Next.js
 
-#### 🌠 Currently learning: Next.js
+🖥 Check my portfolio at: [My portfolio](https://portfolio2-m2jd.vercel.app/)
 
-#### 🖥 Check my portfolio at: [My portfolio](https://portfolio2-m2jd.vercel.app/)
+💻 Check my blog website at: [My Blog Website](https://my-blog-app-six.vercel.app/)
 
-#### 💻 Check my blog website at: [My Blog Website](https://my-blog-app-six.vercel.app/)
-
-#### :mailbox: How to reach me: [famannat@gmail.com](famannat@gmail.com)
-
-</div>
-
+:mailbox: How to reach me: [famannat@gmail.com](mailto:famannat@gmail.com)
+<br>
 </div>
 
 ---
