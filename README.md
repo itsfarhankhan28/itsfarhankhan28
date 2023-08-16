@@ -59,8 +59,8 @@
 
 <h2  align="center">My Github Stats :fire:</h2>
 
-<img align="left" width=47% src="https://streak-stats.demolab.com/?user=itsfarhankhan28&theme=nightowl"/>
+<img align="left" width=47% src="https://streak-stats.demolab.com/?user=itsfarhankhan28&theme=vision-friendly-dark"/>
 
-<img width=47% src="https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&theme=nightowl&show_icons=true" />
+<img width=47% src="https://github-readme-stats.vercel.app/api?username=itsfarhankhan28&theme=vision-friendly-dark&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsfarhankhan28&layout=compact&theme=nightowl"></img>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsfarhankhan28&layout=compact&theme=vision-friendly-dark"></img>
