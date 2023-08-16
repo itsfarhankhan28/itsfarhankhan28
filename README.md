@@ -25,6 +25,14 @@
 
 ---
 
+<div style="display:flex;justify-items:center;align-items:end">
+
+<div style="width:50%">
+<img src="./IMG/githubimg.png"></img>
+</div>
+
+<div style="width:50%">
+
 ### :man_technologist: About Me :
 
 #### Hello there :wave: My name is Farhan Khan . Aiming to be a Full stack web developer :man_technologist: . I am currently pursuing my degree in Information Technology and have a passion for all things web development. I have experience working with HTML, CSS, JavaScript, and several web development frameworks such as React and Angular.
@@ -38,6 +46,10 @@
 #### 💻 Check my blog website at: [My Blog Website](https://my-blog-app-six.vercel.app/)
 
 #### :mailbox: How to reach me: [famannat@gmail.com](famannat@gmail.com)
+
+</div>
+
+</div>
 
 ---
 
