@@ -31,7 +31,13 @@
 
 #### :zap:  I am constantly looking to learn new technologies and improve my existing skillset.
 
-#### :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+#### 🌠 Currently learning: Next.js
+
+#### 🖥 Check my portfolio at: [My portfolio](https://portfolio2-m2jd.vercel.app/)
+
+#### 💻 Check my blog website at: [My Blog Website](https://my-blog-app-six.vercel.app/)
+
+#### :mailbox: How to reach me: [famannat@gmail.com](famannat@gmail.com)
 
 ---
 
@@ -40,7 +46,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,java,python,react,nodejs,express,mongodb,markdown,typescript,vercel,bootstrap,flutter,dart,mui,tailwindcss,postman,figma,webflow" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,java,python,react,nodejs,express,mongodb,next,markdown,typescript,vercel,bootstrap,flutter,dart,mui,tailwindcss,postman,figma,webflow" />
   </a>
 </p>
 
