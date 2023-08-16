@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://github.com/itsfarhankhan28/itsfarhankhan28/blob/assets/readmeimg.png?raw=true"/>
+  <img src="./IMG/Readmeimg.png"/>
 </div>
 </div>
 
