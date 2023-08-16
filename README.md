@@ -25,11 +25,7 @@
 
 ---
 
-<div style="display:flex;justify-items:center;align-items:end">
-
-<div style="width:50%">
-<img src="./IMG/githubimg.png"></img>
-</div>
+<div style="display:flex;justify-items:center;align-items:end;flex-direction:row">
 
 <div style="width:50%">
 
