@@ -51,7 +51,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,java,python,react,nodejs,express,mongodb,next,markdown,typescript,vercel,bootstrap,flutter,dart,mui,tailwindcss,postman,figma,webflow" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,java,python,react,nodejs,express,mongodb,postgresql,next,markdown,typescript,vercel,bootstrap,flutter,dart,mui,tailwindcss,postman,figma,webflow" />
   </a>
 </p>
 
